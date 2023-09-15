@@ -1,0 +1,3 @@
+<petrov petr petrovich ><10.11.1990><89001234567><m>
+<petrov ivan sergeevich ><15.09.1990><89059991122><m>
+<Petrov Ivan Vladimirovich ><17.10.1991><0><m>
